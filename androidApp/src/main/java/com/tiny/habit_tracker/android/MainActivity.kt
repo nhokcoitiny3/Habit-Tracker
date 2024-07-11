@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun GreetingView(text: String) {
     Text(text = text)
